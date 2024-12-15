@@ -1,7 +1,0 @@
-I included links to show where I got help for stuff i needed help with
-
-https://stackoverflow.com/questions/2156712/how-to-float-3-divs-side-by-side-using-css - float for screen divs
-https://www.w3schools.com/jsref/met_win_alert.asp
-https://stackoverflow.com/questions/7815374/get-element-inside-element-by-class-and-id-javascript
-https://codepen.io/teerapuch/pen/vLJXeR
-
