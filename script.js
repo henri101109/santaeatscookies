@@ -79,6 +79,7 @@ document.getElementById("shop-3").addEventListener("click", () => {
 document.getElementById("shop-4").addEventListener("click", () => {
   if (clickCount >= 9999) {
     clickCount -= 9999;
+    alert("Secret Prize added 10% Chance Santa Gained 10000lbs!");
     const prize = Math.random();
     if (prize < 0.25) santaWeight += 100;
     else if (prize < 0.50) clickCount += 10000;
